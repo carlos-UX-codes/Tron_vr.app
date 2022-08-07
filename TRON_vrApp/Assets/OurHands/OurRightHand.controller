@@ -11,7 +11,7 @@ BlendTree:
   - serializedVersion: 2
     m_Motion: {fileID: 7400000, guid: 6bc7ce953b327f747b7db6b0d87e796b, type: 2}
     m_Threshold: 0
-    m_Position: {x: -0.008, y: 0.009}
+    m_Position: {x: 0, y: 0}
     m_TimeScale: 1
     m_CycleOffset: 0
     m_DirectBlendParameter: Blend
@@ -56,12 +56,6 @@ AnimatorController:
   m_Name: OurRightHand
   serializedVersion: 5
   m_AnimatorParameters:
-  - m_Name: Blend
-    m_Type: 1
-    m_DefaultFloat: 0
-    m_DefaultInt: 0
-    m_DefaultBool: 0
-    m_Controller: {fileID: 0}
   - m_Name: Grip
     m_Type: 1
     m_DefaultFloat: 0
